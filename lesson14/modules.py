@@ -1,6 +1,4 @@
 import math
-import sys
-import random
 import kansas
 from rps7 import rock_paper_scissors
 
